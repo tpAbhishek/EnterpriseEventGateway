@@ -42,37 +42,8 @@ A cloud-native, event-driven platform was designed using Microsoft Azure service
 
 ## High-Level Workflow
 
-```text
-Loan Application State Change
-              │
-              ▼
-        Business Systems
-              │
-      Publish Business Event
-              │
-              ▼
-      Azure Service Bus Topic
-              │
-              ▼
-      Azure Function Listener
-              │
-              ▼
- Event Processing & Validation
-              │
-              ▼
-Subscription Management
-              │
-Determine Interested Partners
-              │
-              ▼
- Event Fulfilment Service
-              │
-     REST API / Event Delivery
-              │
-              ▼
-External Partners
 ```
-
+<img src="./Images/EnterpriseEventGateway.png?&style=for-the-badge&logoColor=white" />
 ---
 
 # Platform Modules

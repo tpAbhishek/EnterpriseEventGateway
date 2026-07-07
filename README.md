@@ -42,8 +42,8 @@ A cloud-native, event-driven platform was designed using Microsoft Azure service
 
 ## High-Level Workflow
 
-```
 <img src="./Images/EnterpriseEventGateway.png?&style=for-the-badge&logoColor=white" />
+
 ---
 
 # Platform Modules
